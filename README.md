@@ -1,4 +1,5 @@
 # Data analisys studing projects
 
 Projects
-- [flat sale in St. Petersburg (RU)](./Flats_sale_Spb/)
+- [Research of real estate in St. Petersburg (RU)](./Flats_sale_Spb/)
+- [Forecast of sales of computer games for next year](./Computer_game_analysis/)
