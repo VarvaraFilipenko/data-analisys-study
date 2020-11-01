@@ -1,6 +1,6 @@
-# Research of real estate ads
+# Marketing analysis of the online resource "Culture"
 
-**Key words:** pandas, seaborn(heatmap,catplot) matplotlib.pyplot (hist),cohorts,retention rate,LTV,ROI,CAC,ROMI 
+**Key words:** pandas, seaborn(heatmap,catplot) matplotlib.pyplot (hist),cohorts,retention rate, LTV, ROI, CAC, ROMI 
 
 **Data:**  There is data sets from online resource “Culture” (sale of tickets for cultural events) from June 2017 to the end of May 2018.
 
