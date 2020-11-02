@@ -9,3 +9,6 @@ Projects
 
 - [Marketing analysis of the online resource "Culture"](./Culture_LTV_ROMI_en.ipynb/) <br> 
 **Key words:** pandas, seaborn(heatmap,catplot) matplotlib.pyplot (hist),cohorts,retention rate, LTV, ROI, CAC, ROMI . <br> **Purpose:** To analyze marketing metrics and provide recommendations for the next marketing campaigns.
+
+- [SQL](./SQL.ipynb/) <br> 
+**Key words:** PostgreSQL, SELECT, AVG, COUNT, LEFT JOIN, GROUP BY, ORDER BY, HAVING <br> **Purpose:** Education queries
